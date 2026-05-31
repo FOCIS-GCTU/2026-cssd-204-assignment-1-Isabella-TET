@@ -1,13 +1,13 @@
-# File name: initials.py
-# Description: Print out my initials
+# File: initials.py
+# Description: Print out my initials.
 # Assignment Number: 1
 #
-# Name: Isabella Nakwor Tetteh
-# STUDENT ID: 2425401837
+# Name: Isabella Tetteh
+# STUDENT ID:  2425401837
 # Email: 2425401837@live.gctu.edu.gh
 # Grader: Augustus
-
-# On my honor, Isabella Nakwor Tetteh, this programming assignment is my own work
+#
+# On my honor, Isabella Tetteh, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 
