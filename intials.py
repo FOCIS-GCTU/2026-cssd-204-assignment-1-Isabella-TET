@@ -1,6 +1,6 @@
 
 def main():
-# File: int.py
+# File name: int.py
 # Description: Print out my initials
 # Assignment Number: Assignment 2
 #
