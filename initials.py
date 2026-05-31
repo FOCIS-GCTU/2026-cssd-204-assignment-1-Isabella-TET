@@ -12,21 +12,21 @@
 
 
 def main():
-#
-print ()
-print ("...INT")
-print()
-print ("...IIIIIIIIIIII........NN........NN........TTTTTTTTTTTT.....")
-print ("...IIIIIIIIIIII........NNN.......NN........TTTTTTTTTTTT.....")
-print (".......III.............NNNN......NN............TTT..........")
-print (".......III.............NN.NN.....NN............TTT..........")
-print (".......III.............NN..NN....NN............TTT..........")
-print (".......III.............NN...NN...NN............TTT..........")
-print (".......III.............NN....NN..NN............TTT..........")
-print (".......III.............NN.....NN.NN............TTT..........")
-print ("...IIIIIIIIIIII...**...NN......NNNN...**.......TTT........**")
-print ("...IIIIIIIIIIII...**...NN.......NNN...**.......TTT........**")
-print()
+    # This main function prints the initials INT in a 60x10 character grid.
+    print()
+    print("...INT")
+    print()
+    print("...IIIIIIIIIIII........NN........NN........TTTTTTTTTTTT.....")
+    print("...IIIIIIIIIIII........NNN.......NN........TTTTTTTTTTTT.....")
+    print(".......IIII............NNNN......NN............TTTT.........")
+    print(".......IIII............NN.NN.....NN............TTTT.........")
+    print(".......IIII............NN..NN....NN............TTTT.........")
+    print(".......IIII............NN...NN...NN............TTTT.........")
+    print(".......IIII............NN....NN..NN............TTTT.........")
+    print(".......IIII............NN.....NN.NN............TTTT.........")
+    print("...IIIIIIIIIIII...**...NN......NNNN...**.......TTTT.......**")
+    print("...IIIIIIIIIIII...**...NN.......NNN...**.......TTTT.......**")
+    print()
 
 
 main()
